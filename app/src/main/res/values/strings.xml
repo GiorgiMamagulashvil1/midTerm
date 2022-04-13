@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MIdTermAndroid</string>
+    <string name="feedback">Feedback</string>
+    <string name="first_text">1.გისარგებლიათ თუ არა ჩვენი სერვისებით</string>
+    <string name="yes">კი</string>
+    <string name="no">არა</string>
+    <string name="second_text">2.თუ გისარგებლიათ ჩვენი სერვისები შეაფასეთ მომსახურეობის ხარისხი</string>
+    <string name="name">სახელი</string>
+    <string name="last_name">გვარი</string>
+    <string name="text">ტექსტი</string>
+    <string name="send">გაგზავნა</string>
+    <string name="please_fill_all_fields">გთხოვთ შეავსოთ ყველა ველი</string>
+    <string name="input_is_short">შეყვანილი მონაცემები მოკლეა</string>
+    <string name="success">წარმატებით გაიგზავნა</string>
+</resources>
